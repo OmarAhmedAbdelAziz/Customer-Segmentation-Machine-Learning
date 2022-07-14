@@ -1,6 +1,6 @@
 # Customer-Segmentation-Machine-Learning
 
-My Machine Learning project for Google Development Student Club (GDSC).
+My New Machine Learning project.
 
 Customer Segmentation using Clustering Algorithms.
 
