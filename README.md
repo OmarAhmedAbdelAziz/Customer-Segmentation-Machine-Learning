@@ -1,3 +1,3 @@
 # Customer-Segmentation-Machine-Learning
 
-![](images/customersegmentation(1).jpg)
+![](images/customer%20segmentation@20(1).jpg)
