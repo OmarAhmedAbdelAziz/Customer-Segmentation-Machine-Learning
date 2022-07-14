@@ -20,6 +20,6 @@ A brief about the notebook:
 
 6-Modeling and it's Evaluation
 
-7-
+7-Save the Clustered data
 
 ![](images/customer%20segmentation%20(1).jpg)
