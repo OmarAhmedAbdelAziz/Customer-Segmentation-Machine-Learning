@@ -14,12 +14,14 @@ A brief about the notebook:
 
 4-Data Pre-processing
 
-5-Elbow Method
+5-Dimensionality Reduction (t-SNE)
 
-6-Silhouette Score
+6-Elbow Method
 
-6-Modeling and it's Evaluation
+7-Silhouette Score
 
-7-Save the Clustered data
+8-Modeling and it's Evaluation
+
+9-Save the Clustered data
 
 ![](images/customer%20segmentation%20(1).jpg)
